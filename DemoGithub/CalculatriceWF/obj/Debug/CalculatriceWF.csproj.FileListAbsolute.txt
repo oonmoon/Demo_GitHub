@@ -1,0 +1,52 @@
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\bin\Debug\Calculatrice.exe.config
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\bin\Debug\Calculatrice.exe
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\CalculatriceWF.csprojResolveAssemblyReference.cache
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\CalculatriceWF.csproj.GenerateResource.Cache
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\CalculatriceWF.csproj.CoreCompileInputs.cache
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\Calculatrice.exe
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\Calculatrice.pdb
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csprojResolveAssemblyReference.cache
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\obj\Debug\Calculatrice.Properties.Resources.resources
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.GenerateResource.Cache
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.CoreCompileInputs.cache
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\obj\Debug\Calculatrice.exe
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\obj\Debug\Calculatrice.pdb
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.exe.config
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.exe
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours12\TP\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.pdb
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csprojResolveAssemblyReference.cache
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.GenerateResource.Cache
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.CoreCompileInputs.cache
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.exe.config
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.exe
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.pdb
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.Properties.Resources.resources
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.exe
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.pdb
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.exe.config
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.exe
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.pdb
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.dll
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csprojResolveAssemblyReference.cache
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.Properties.Resources.resources
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.GenerateResource.Cache
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.CoreCompileInputs.cache
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.exe
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.pdb
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.exe.config
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.exe
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\bin\Debug\CalculatriceWF.pdb
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.dll
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\bin\Debug\Calculatrice.pdb
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csprojResolveAssemblyReference.cache
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.Properties.Resources.resources
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.GenerateResource.Cache
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.csproj.CoreCompileInputs.cache
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.exe
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\CalculatriceWF\obj\Debug\CalculatriceWF.pdb

@@ -1,0 +1,47 @@
+M:\420-217\Cours10\Devoir 6\Calculatrice\bin\Debug\Calculatrice.dll
+M:\420-217\Cours10\Devoir 6\Calculatrice\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+M:\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+M:\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.dll
+M:\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Ahuntsic\420-217\Cours10\Devoir 6\Calculatrice\bin\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours10\Devoir 6\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Ahuntsic\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Ahuntsic\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Ahuntsic\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours10\Devoir 6\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Ahuntsic\420-217\Cours12\Devoir 6\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Ahuntsic\420-217\Cours12\Devoir 6\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Ahuntsic\420-217\Cours12\Devoir 6\Calculatrice\obj\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours12\Devoir 6\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Ahuntsic\420-217\Cours12\Devoir 6\Calculatrice\bin\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours12\Devoir 6\Calculatrice\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours12\Devoir 6\Calculatrice\bin\Debug\Calculatrice.dll
+M:\420-217\Cours12\Devoir 6\Calculatrice\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours12\Devoir 6\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+M:\420-217\Cours12\Devoir 6\Calculatrice\obj\Debug\Calculatrice.dll
+M:\420-217\Cours12\Devoir 6\Calculatrice\obj\Debug\Calculatrice.pdb
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\bin\Debug\Calculatrice.dll
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\Calculatrice.dll
+M:\420-217\Cours12\TP\DemoGithub\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\bin\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.dll
+C:\Ahuntsic\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.pdb
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\bin\Debug\Calculatrice.dll
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\bin\Debug\Calculatrice.pdb
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.dll
+M:\420-217\Cours13\Demo\217_TP1_Demo-projetInitial_depart\DemoGithub\Calculatrice\obj\Debug\Calculatrice.pdb
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\Calculatrice\bin\Debug\Calculatrice.dll
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\Calculatrice\bin\Debug\Calculatrice.pdb
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\Calculatrice\obj\Debug\Calculatrice.dll
+M:\Session 5\Windows\Cours 13\DemoGithub-master\DemoGithub\Calculatrice\obj\Debug\Calculatrice.pdb
